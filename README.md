@@ -1,5 +1,4 @@
 # Lab-GitHub-Essentials
 
-##Description
-
+## Description
 Lab for Python Basics for github
